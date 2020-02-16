@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-#!/usr/bin/python3
-=======
 # !/usr/bin/python3
 from tkinter import *
 import os
@@ -185,5 +182,3 @@ dd = Button(root, text='Quit', command=root.quit)
 dd.pack()
 root.title("Simple Prog")
 root.mainloop()
-
->>>>>>> Stashed changes
