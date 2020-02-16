@@ -1,0 +1,11 @@
+D:\Developer\TheCabbarGithub\raccab-desktop-python\MyWinFormsApp\bin\Debug\netcoreapp3.1\MyWinFormsApp.exe
+D:\Developer\TheCabbarGithub\raccab-desktop-python\MyWinFormsApp\bin\Debug\netcoreapp3.1\MyWinFormsApp.deps.json
+D:\Developer\TheCabbarGithub\raccab-desktop-python\MyWinFormsApp\bin\Debug\netcoreapp3.1\MyWinFormsApp.runtimeconfig.json
+D:\Developer\TheCabbarGithub\raccab-desktop-python\MyWinFormsApp\bin\Debug\netcoreapp3.1\MyWinFormsApp.runtimeconfig.dev.json
+D:\Developer\TheCabbarGithub\raccab-desktop-python\MyWinFormsApp\bin\Debug\netcoreapp3.1\MyWinFormsApp.dll
+D:\Developer\TheCabbarGithub\raccab-desktop-python\MyWinFormsApp\bin\Debug\netcoreapp3.1\MyWinFormsApp.pdb
+D:\Developer\TheCabbarGithub\raccab-desktop-python\MyWinFormsApp\obj\Debug\netcoreapp3.1\MyWinFormsApp.csprojAssemblyReference.cache
+D:\Developer\TheCabbarGithub\raccab-desktop-python\MyWinFormsApp\obj\Debug\netcoreapp3.1\MyWinFormsApp.AssemblyInfoInputs.cache
+D:\Developer\TheCabbarGithub\raccab-desktop-python\MyWinFormsApp\obj\Debug\netcoreapp3.1\MyWinFormsApp.AssemblyInfo.cs
+D:\Developer\TheCabbarGithub\raccab-desktop-python\MyWinFormsApp\obj\Debug\netcoreapp3.1\MyWinFormsApp.dll
+D:\Developer\TheCabbarGithub\raccab-desktop-python\MyWinFormsApp\obj\Debug\netcoreapp3.1\MyWinFormsApp.pdb
